@@ -1,7 +1,7 @@
 # Портфолио fullstack-разработчика
 
 ## Обо мне
-![pngwing.com_photo-resizer.ru.png](..%2F..%2F..%2F..%2FDownloads%2Fpngwing.com_photo-resizer.ru.png) 
+![pngwing.com_photo-resizer.ru.png](pngwing.com_photo-resizer.ru.png)
 
 Меня зовут Тумашевич Никита Русланович, и я fullstack-разработчик с опытом в Python. Моей целью является создание инновационных и эффективных веб-приложений, объединяя как клиентскую, так и серверную разработку.
 
